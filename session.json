@@ -1,4 +1,57 @@
-"name": "Ha"
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "GG2iXjZpZ7tUCY2iOxMBlHZFFXE0+7Onpre50HNDMkw="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "sb31LcY8BUU7JqCWde/g7lGY7GKmpBxvzMp8rS0fvDw="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "UJiPQudzfkJ+ISFUcs1eUkYgZ3Kgm5H/uNtikEJX5Vo="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "vBYeRQS++fU6OT3XJS8tZHg+vVzSwtRd9ZlhHD8K2GU="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "iLKMTgyhsog82FqlKB3QRYrp5cnxQNuroX0iY/juK3Q="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "e9SeyRdg9vl85nwTbvocu3fKbXPtubN3tbrTFmSTb3Y="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "RJK3fQ75RSeQS6Ih1ycd57qzAwiN1nA17ipRO47ndzcTDPRnV6x1AOJqoc53pgftcVwRqCdpGnhkqPZdHyYODg=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 156,
+    "advSecretKey": "rbHzw15otfYIwUsU61DIF69RiUrb+cuXR+F4nlN5VZY=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CPjkwMgEEKnq8JwGGAE=",
+      "accountSignatureKey": "ksQF8Xn66wqkEpfmz0y4GJ28mLlt6G72ruCjOTXNj0k=",
+      "accountSignature": "vAXUAkcpfmdxxppAXzDoGZCYeh09I9xVCep+pGRZmKqjlCJ8c4obFPIhUOaF+OAp6nNbymDLYNSanuTD8BsxBw==",
+      "deviceSignature": "VDYAh+bbrqJEqiL71XLSBTlY6uBg8f1tIvO9HW8v6wSs7HIozAMJh7y78+drXWW0CV6gOvmtsKCwvDC2/NViDg=="
+    },
+    "me": {
+      "id": "6283138394564:4@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "Ha"
     },
     "signalIdentities": [
       {
