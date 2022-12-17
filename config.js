@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'KyyBotz ཌ'
+global.ownername = 'FachriBot'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6283138394564','6283138394564','6283138394564']
-global.premium = ['6283138394564']
-global.packname = 'KyyBotz ཌ'
+global.owner = ['6285713041886','6285713041886','6285713041886']
+global.premium = ['6285713041886']
+global.packname = 'FachriBot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
